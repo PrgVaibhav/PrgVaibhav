@@ -4,7 +4,7 @@ Hi 👋 My name is Vaibhav
 Web developer
 -------------
 
-Hello, I am a front-end web developer. I am currently learning full-stack web development too. Always ready for an exciting project.
+Hello, I am a front-end web developer. I am currently learning full-stack web development. Always ready for an exciting project.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [vaibhav2k1507@gmail.com](mailto:vaibhav2k1507@gmail.com)
