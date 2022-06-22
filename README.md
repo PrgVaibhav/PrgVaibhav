@@ -31,7 +31,6 @@ Hello, I am a front-end web developer. I am currently learning full-stack web de
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/PrgVaibhav" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SyntaxError200" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
