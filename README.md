@@ -6,7 +6,7 @@ Web Developer
 My Portfolio - [Portfolio](https://prgvaibhav.github.io/index.html)
 -------------
 # 💫 About Me:
-🔭 I’m currently working on a blog website<br>👯 I'm open to collaborating on Front end development work<br>🌱 I’m currently learning React js<br>⚡ IN A LOVE TRIANGLE WITH HTML CSS AND JS
+🔭 **I’M CURRENTLY WORKING ON A BLOG WEBSITE**<br>👯 **I’M OPEN TO COLLABORATE ON FRONT END DEVELOPMENT WORK**<br>🌱 **I’M CURRENTLY LEARNING REACT JS**<br>⚡ **IN A LOVE TRIANGLE WITH HTML CSS AND JS**
 
 
 ## 🌐 Socials:
