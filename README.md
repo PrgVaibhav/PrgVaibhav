@@ -1,6 +1,7 @@
+<div align="center"> <img alt="coding" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47cwgrdehjs4k4929v2qygy04kl1kz2xmgkf1bdy04&rid=giphy.gif&ct=g" />
+</div>
 <h1 align="center">Hello 👋, Vaibhav here</h1>
 <h3 align="center">A passionate frontend developer and designer from India</h3>
-
 
 <p align="left"> <a href="https://twitter.com/syntaxerror408" target="blank"><img src="https://img.shields.io/twitter/follow/syntaxerror408?logo=twitter&style=for-the-badge" alt="syntaxerror408" /></a> </p>
 
