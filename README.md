@@ -3,6 +3,7 @@
 <h1 align="center">Hello 👋, Vaibhav here</h1>
 <h3 align="center">A passionate frontend developer and designer from India</h3>
 
+<div align = "center">
 <p align="left"> <a href="https://twitter.com/syntaxerror408" target="blank"><img src="https://img.shields.io/twitter/follow/syntaxerror408?logo=twitter&style=for-the-badge" alt="syntaxerror408" /></a> </p>
 
 - 🔭 I’m currently working on **Blog website**
@@ -42,4 +43,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prgvaibhav&label=Profile%20views&color=0e75b6&style=flat" alt="prgvaibhav" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prgvaibhav" alt="prgvaibhav" /></a> </p>
-
+</div>
