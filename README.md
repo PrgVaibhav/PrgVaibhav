@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **any frontend work**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://prgvaibhav.github.io/index.html)
+- 👨‍💻 All of my projects are available at [Portfolio](https://kumarvaibhav.netlify.app/)
 
 - 📝 I regularly write articles on [Hashnode Blog](https://vaibhavwrites.hashnode.dev/)
 
