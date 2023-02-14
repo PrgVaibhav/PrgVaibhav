@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vaibhav2k1507@gmail.com**
 
-- ⚡ **In a love triangle with HTML, CSS**
+- ⚡ **In a love triangle with HTML, CSS and JS**
 
 - ***Learning more by creating more***
 
