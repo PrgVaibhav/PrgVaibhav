@@ -1,6 +1,4 @@
-
 ![I am a front end developer from Bihar, India](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-
 ### 👋🏻 About Me
 
 I am Vaibhav, I am a frontend developer  👨‍💻 from Bihar, India.  
@@ -44,12 +42,11 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 -   [LinkedIn](https://www.linkedin.com/in/devXvaibhav)  - to connect one-on-one and career updates.
 -   [Email](vaibhav.pandey1508@gmail.com)  - for detailed queries, collaboration requests, or opportunities.
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prgVaibhav&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prgVaibhav&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prgVaibhav&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=prgVaibhav&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=prgVaibhav&theme=nightowl&hide_border=false)
 
 ## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=SyntaxError408)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![](https://gtce.itsvg.in/api?username=SyntaxError408)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prgVaibhav&icon=5&color=8)](https://visitcount.itsvg.in)
