@@ -19,7 +19,6 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 -   Languages - `HTML & CSS`, `JAVASCRIPT`, `SASS`
 -   Libraries & Frameworks -  `Bootstrap`,  `ReactJS`, `NextJS`
 -   Tools and Technologies - NPM, Github-Pages, Netlify, Vercel
--   Areas for interests - `UI Design/Development`,  `Components & Design Systems`.
 
 #### [](https://github.com/prgVaibhav#-projects)💼  Projects
 
