@@ -1,7 +1,7 @@
 ![I am a front end developer from Bihar, India](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
-### 👋🏻 About Me
+## 👋🏻 About Me
 
-I am Vaibhav, I am a frontend developer  👨‍💻 from Bihar, India.  
+I am **Vaibhav**, I am a frontend developer  👨‍💻 from Bihar, India.  
 I Love Creating Things That Live On The Web. I Specialize In  **Creating Websites** And  **Web Applications**. I'm A  **Fast Learner** And I Love To Learn New Things. 💓
 
 > I would love to contribute to the open-source web development projects (specially frontend).
