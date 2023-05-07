@@ -10,7 +10,7 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 
 > Currently open for full-time/part-time intern job roles in frontend development ⚒
 
--   Drop a mail at -  [vaibhav.pandey1508@gmail.com](vaibhav.pandey1508@gmail.com)  💌  
+-   Drop a mail at -  vaibhav.pandey1508@gmail.com 💌  
     
 -   Check out more about me -  [Portfolio](https://kumarvaibhav.vercel.app/)
 
@@ -22,7 +22,7 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 
 #### [](https://github.com/prgVaibhav#-projects)💼  Projects
 
--   Check out a community built by me [here](https://www.devfort.tech/) 🛠
+-   Check out web dev resources [here](https://www.devfort.tech/) 🛠
 -   [StayFit](https://prgvaibhav.github.io/StayFit/)  - Landing page for Gym
 -   [Oil](https://prgvaibhav.github.io/Oil-Manufacturing/)  - MultiPage website for edible oil company, this project was part of my freelancing work
 - And many more, you can see them [here](https://kumarvaibhav.vercel.app/)
