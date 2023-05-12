@@ -10,8 +10,7 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 
 > Currently open for full-time/part-time intern job roles in frontend development ⚒
 
--   Drop a mail at -  vaibhav.pandey1508@gmail.com 💌  
-    
+-   Drop a mail at -  vaibhav.pandey1508@gmail.com 💌
 -   Check out more about me -  [Portfolio](https://kumarvaibhav.vercel.app/)
 
 #### [](https://github.com/prgVaibhav#-skills)🛠  Skills
@@ -39,7 +38,7 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 -   Interview Questions for [CSS](https://github.com/PrgVaibhav/CSS_Interview_Questions)
 -   Interview Questions for [JS](https://github.com/PrgVaibhav/JS_Interview_Questions)
 
-#### [](https://github.com/wh0sumit#-connect-w-me-)✌  connect w/ me :
+#### [](https://github.com/prgVaibhav#-connect-w-me-)✌  connect w/ me :
 
 -   [Twitter](https://twitter.com/SyntaxError408)  - read my learnings in tech, community and life updates.
 -   [LinkedIn](https://www.linkedin.com/in/devXvaibhav)  - to connect one-on-one and career updates.
