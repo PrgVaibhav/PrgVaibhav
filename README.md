@@ -21,9 +21,11 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 
 #### [](https://github.com/prgVaibhav#-projects)💼  Projects
 
--   Check out web dev resources [here](https://www.devfort.tech/) 🛠
--   [StayFit](https://prgvaibhav.github.io/StayFit/)  - Landing page for Gym
--   [Oil](https://prgvaibhav.github.io/Oil-Manufacturing/)  - MultiPage website for edible oil company, this project was part of my freelancing work
+-   Website for developers to find `Resources` link [here](https://www.devfort.tech/) 
+-   Play `Roll the Dice` Game [here](https://prgvaibhav.github.io/Roll_The_Dice/)
+-   Play `Guessing Game` [here](https://prgvaibhav.github.io/Guess_the_number/)
+-   Generate QR for your `Link, Text or Numbers` download it and share anonymously [click here](https://qr-generator-devxvaibhav.vercel.app/)
+-   Read all the latest `News` [here](https://newsflashh.netlify.app/)
 - And many more, you can see them [here](https://kumarvaibhav.vercel.app/)
 
 #### [](https://github.com/prgVaibhav#-work-experience)💻  Work Experience
@@ -40,6 +42,7 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 -   [Twitter](https://twitter.com/SyntaxError408)  - read my learnings in tech, community and life updates.
 -   [LinkedIn](https://www.linkedin.com/in/devXvaibhav)  - to connect one-on-one and career updates.
 -   [Email](vaibhav.pandey1508@gmail.com)  - for detailed queries, collaboration requests, or opportunities.
+-   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prgVaibhav&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prgVaibhav&theme=nightowl&hide_border=false)
