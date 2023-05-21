@@ -26,7 +26,7 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 -   Play `Guessing Game` [here](https://prgvaibhav.github.io/Guess_the_number/)
 -   Generate QR for your `Link, Text or Numbers` download it and share anonymously [click here](https://qr-generator-devxvaibhav.vercel.app/)
 -   Read all the latest `News` [here](https://newsflashh.netlify.app/)
-- And many more, you can see them [here](https://kumarvaibhav.vercel.app/)
+-   And many more, you can see them [here](https://kumarvaibhav.vercel.app/)
 
 #### [](https://github.com/prgVaibhav#-work-experience)💻  Work Experience
 
