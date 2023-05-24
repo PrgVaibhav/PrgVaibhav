@@ -1,4 +1,6 @@
-![I am a front end developer from Bihar, India](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+<!-- ![I am a front end developer from Bihar, India](https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif) -->
+<img src="https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif" alt="Saying Hello" style="width: 100%;"/>
+
 ## 👋🏻 About Me
 
 I am **Vaibhav**, I am a frontend developer  👨‍💻 from Bihar, India.  
