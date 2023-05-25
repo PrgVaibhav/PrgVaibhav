@@ -1,5 +1,7 @@
 <!-- ![I am a front end developer from Bihar, India](https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif) -->
-<img src="https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif" alt="Saying Hello" style="width: 100%;"/>
+<div>
+<img align="center" src="https://media.giphy.com/media/xT0BKpqAaJczduXXJ6/giphy.gif" alt="Saying Hello" />
+</div>
 
 ## 👋🏻 About Me
 
@@ -45,9 +47,10 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 -   [LinkedIn](https://www.linkedin.com/in/devXvaibhav)  - to connect one-on-one and career updates.
 -   [Email](vaibhav.pandey1508@gmail.com)  - for detailed queries, collaboration requests, or opportunities.
 -   
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prgVaibhav&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)
+## 📊 GitHub Stats:
+[![Vaibhav GitHub stats](https://github-readme-stats.vercel.app/api?username=prgVaibhav&show_icons=true&theme=nightowl)](https://github.com/prgVaibhav/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prgVaibhav&theme=nightowl&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prgVaibhav&layout=compact&langs_count=4&hide_progress=true&theme=nightowl)](https://github.com/prgVaibhav/github-readme-stats)
 
 ## 🐦 Latest Tweet
 ![](https://gtce.itsvg.in/api?username=SyntaxError408)
@@ -55,6 +58,16 @@ I Love Creating Things That Live On The Web. I Specialize In  **Creating Website
 ---
 [![](https://visitcount.itsvg.in/api?id=prgVaibhav&icon=5&color=8)](https://visitcount.itsvg.in)
 
+---
+
+## Recent Works : 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prgVaibhav&theme=nightowl&repo=Roll_The_Dice)](https://github.com/prgVaibhav/Roll_The_Dice)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prgVaibhav&theme=nightowl&repo=next-Portfolio)](https://github.com/prgVaibhav/next-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=prgVaibhav&theme=nightowl&repo=Guess_the_number)](https://github.com/prgVaibhav/Guess_the_number)
+
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/devXvaibhav) 
+
 ![preview](https://camo.githubusercontent.com/6038c8f1fd8f60de75477470e5a87210e9256202e01dfba9986446304a0f0254/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36302673656374696f6e3d666f6f746572)
+
