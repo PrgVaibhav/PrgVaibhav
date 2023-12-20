@@ -6,14 +6,14 @@
 
 📍 _Location: Bihar, India_
 
- - Frontend developer ( `React Js` and `CSS` ).
+ - Frontend developer ( `React Js`).
  - Learning to craft digital magic with a dash of creativity.
  - I love to create user-friendly and eye-catching websites that work seamlessly on all devices.
  - My passion for coding knows no bounds, and I'm always exploring new ways to deep dive and create something beautiful.
 
 ---
 
-> Open for freelancing, part/full time roles as frontend developer 🐱‍🏍
+> Open for freelancing, part/full-time roles as frontend developer 🐱‍🏍
 
 ---
 
@@ -27,14 +27,16 @@
 
 ------
 
-### 🏆 Projects 
+### 🏆 Projects
 
- - [Movie Gyaan](https://moviegyaaan.netlify.app/) - A platform which provides comprehensive details about various movies, including ratings, languages, genres, revenue, budget, and release dates.
- - [DevFort](https://devfort.vercel.app/) - A platform which provides web developers to get resources (Images website, Icons website, API, etc) at one place.
+
+- [Tic Tac Toe](https://prgvaibhav.github.io/Tic-Tac-Toe/) - Enjoy a classic gaming experience with this simple and interactive Tic Tac Toe game implemented using `HTML`, `CSS`, and `JavaScript`.
+ - [Movie Gyaan](https://moviegyaaan.netlify.app/) - A platform that provides comprehensive details about various movies, including ratings, languages, genres, revenue, budget, and release dates.
+ - [DevFort](https://devfort.vercel.app/) - A platform that provides web developers to get resources (Images website, Icons website, API, etc) in one place.
  - [Roll The Dice](https://prgvaibhav.github.io/Roll_The_Dice/) Roll The Dice is a game where users can play with their friends (offline).
- - [Guess The Number](https://prgvaibhav.github.io/Guess_the_number/) Guess the number in less than 20 attempts and become winner.
+ - [Guess The Number](https://prgvaibhav.github.io/Guess_the_number/) Guess the number in less than 20 attempts and become the winner.
  -  [NewsFlashh](https://newsflashh.netlify.app/) A platform where users can read the latest news.
- - [Edible Oil](https://prgvaibhav.github.io/Oil-Manufacturing/) This multi page website was part of my freelancing work.
+ - [Edible Oil](https://prgvaibhav.github.io/Oil-Manufacturing/) This multi-page website was part of my freelancing work.
 
 ---
 
