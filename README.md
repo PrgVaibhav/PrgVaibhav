@@ -41,8 +41,9 @@
 ---
 
 ### 💻 Experience 
-- Worked as FrontEnd Developer Intern in Gray Acumen (from Feb 2023 - July 2023)
-- Working as FrontEnd Developer Intern in 24th Mile (from Nov 2023 - till now)
+- Worked as FrontEnd Developer Intern in Gray Acumen (from May 2023 - Oct 2023)
+- Worked as ReactJS Developer in 24th Mile (from Oct 2023 - Jan 2024)
+- Worked as ReactJS Developer in InfozIT (from Jan 2023 - present)
 
 ---
 
